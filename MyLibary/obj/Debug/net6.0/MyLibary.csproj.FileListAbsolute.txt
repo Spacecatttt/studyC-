@@ -1,0 +1,12 @@
+C:\Users\T480\source\repos\studyC\MyLibary\bin\Debug\net6.0\MyLibary.deps.json
+C:\Users\T480\source\repos\studyC\MyLibary\bin\Debug\net6.0\MyLibary.dll
+C:\Users\T480\source\repos\studyC\MyLibary\bin\Debug\net6.0\MyLibary.pdb
+C:\Users\T480\source\repos\studyC\MyLibary\obj\Debug\net6.0\MyLibary.csproj.AssemblyReference.cache
+C:\Users\T480\source\repos\studyC\MyLibary\obj\Debug\net6.0\MyLibary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T480\source\repos\studyC\MyLibary\obj\Debug\net6.0\MyLibary.AssemblyInfoInputs.cache
+C:\Users\T480\source\repos\studyC\MyLibary\obj\Debug\net6.0\MyLibary.AssemblyInfo.cs
+C:\Users\T480\source\repos\studyC\MyLibary\obj\Debug\net6.0\MyLibary.csproj.CoreCompileInputs.cache
+C:\Users\T480\source\repos\studyC\MyLibary\obj\Debug\net6.0\MyLibary.dll
+C:\Users\T480\source\repos\studyC\MyLibary\obj\Debug\net6.0\refint\MyLibary.dll
+C:\Users\T480\source\repos\studyC\MyLibary\obj\Debug\net6.0\MyLibary.pdb
+C:\Users\T480\source\repos\studyC\MyLibary\obj\Debug\net6.0\ref\MyLibary.dll
